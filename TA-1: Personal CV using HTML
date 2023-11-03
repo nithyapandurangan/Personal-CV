@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">   
+    <title>💓 Nithya's first Website </title>
+</head>
+
+<body>
+    <table cellspacing="20">
+        <tr>
+            <td> <img src="C:\Users\nithy\OneDrive\Desktop\Nithya\Udemy Course\Web Development\pic.png", height="150"> </td>
+            <td>
+                <h1> Nithya Pandurangan </h1>
+                <em> Student  </em> <br>
+                <em> Computer Science Engineering - IoT </em> 
+                <br>
+                <p> Nithya is in her third year of engineering and is extremely passionate about UI/UX and product designing. </p>                
+            </td> 
+        </tr>
+    </table>
+    <hr>
+    <h3> Education- </h3>
+    <table cellspacing="10">
+        <thead> 
+            <tr>
+                <th> Dates </th>
+                <th> Schools </th>
+            </tr>
+        </thead>
+        <tbody> 
+            <tr>
+                <td> Grade 1- Grade 5:</td>
+                <td> Sankara Senior Sec School, Chennai</td>
+            </tr>
+            <tr>
+                <td> Grade 6- Grade 10:</td>
+                <td> Vikas The Concept School, Hyderabad </td>
+            </tr>
+            <tr>
+                <td> Grade 11- Grade 12: </td>
+                <td> Aakash Junior College, Hyderabad  </td>
+            </tr>
+        </tbody>
+    </table>
+    <hr>
+    <h3> Hobbies & Interests- </h3>
+    <ol type="i"> 
+    <li> <a href="https://www.imdb.com/title/tt0443706/"> Watching Movies </a> </li>
+    <li> <a href="https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"> Listening to Music </a>  </li>
+    <li> <a href="https://en.wikipedia.org/wiki/Pondicherry"> Travelling </a> </li>
+    <li> <a href="https://en.wikipedia.org/wiki/Doughnut"> Eating </a>  </li>
+    </ol>
+    <hr>
+    <h3> My Skills </h3>
+    <table>
+        <tr>
+            <td> Designing </td>
+            <td> ⭐⭐⭐⭐⭐ </td>
+        </tr>
+        <tr>
+            <td> UI/UX </td>
+            <td> ⭐⭐⭐⭐⭐ </td>
+        </tr>
+        <tr>
+            <td> Web Development </td>
+            <td> ⭐⭐⭐⭐</td>
+        </tr>
+        <tr>
+            <td> Public Speaking 
+            <td> ⭐⭐⭐⭐ </td>
+        </tr>
+        <tr> 
+            <td> Leadership Skills </td>
+            <td>⭐⭐⭐⭐ </td>
+        </tr>
+        <tr>
+            <td> HTML </td>
+            <td>⭐⭐⭐ </td>
+        </tr> 
+    </table>
+    <br>
+    <hr> 
+
+    <a href="hobbies.html"> My hobbies </a>
+    <br> <br>
+    <a href="contact.html"> <strong> Contact Me! </strong> </a>
+    <hr>
+
+</body>
+
+</html>
